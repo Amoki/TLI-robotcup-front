@@ -1,3 +1,6 @@
+"use strict";
+
+
 (function(app) {
   app.AppComponent =
     ng.core.Component({
