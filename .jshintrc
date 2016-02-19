@@ -54,14 +54,7 @@
   "prototypejs"   : false,
   "rhino"         : false,
   "wsh"           : false,
-  "jasmine": true,
-  "angular": true,
-  "browser": true,
-  "element": true,
-  "by":true,
-  "io":true,
-  "_":false,
-  "$":false,
+  "jasmine"       : true,
 
 
   "nomen"         : false,
@@ -74,8 +67,10 @@
     "describe",
     "it",
     "after",
+    "afterEach",
     "before",
-    "beforeEach"
+    "beforeEach",
+    "ng"
   ],
   "indent"        : 2,
   "maxstatements" : 70,
