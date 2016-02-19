@@ -1,15 +1,14 @@
 {
-  "name": "angular_project",
+  "name": "TLI-robotcup-front",
   "version": "1.0.0",
-  "description": "",
+  "description": "Robotcup front app",
   "main": "spec.js",
   "dependencies": {
-    "jasmine": "^2.4.1"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
